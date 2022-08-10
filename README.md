@@ -1,0 +1,2 @@
+# JavaMinMax
+www.patika.dev
